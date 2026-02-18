@@ -6,4 +6,6 @@ This is a readme
 Some commands can be found here
 
 ## Website content
+
+List of Website files
 	1. index.html
